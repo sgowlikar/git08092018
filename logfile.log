@@ -186,3 +186,155 @@ Session ID: ae3173fd-e71f-4842-a72c-c0a78bfdf35b
 2018-08-08 20:44:28,813 INFO  [Log] X 
 2018-08-08 20:44:28,813 INFO  [Log] X 
 2018-08-08 20:44:28,813 INFO  [Log] X 
+2018-08-09 23:26:15,296 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:26:15,296 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:26:15,296 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-08-09 23:26:15,296 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:26:15,296 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:26:16,079 INFO  [Log] Excel sheet opened 
+2018-08-09 23:26:16,079 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-08-09 23:26:19,038 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Process unexpectedly closed with status 0
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-IE1JPG9H', ip: '192.168.10.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace:  
+2018-08-09 23:26:19,064 ERROR [Log] My Acocunt link is not found on the Home Page 
+2018-08-09 23:26:19,148 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2018-08-09 23:26:19,159 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-08-09 23:26:19,159 INFO  [Log] X 
+2018-08-09 23:26:19,159 INFO  [Log] X 
+2018-08-09 23:26:19,159 INFO  [Log] X 
+2018-08-09 23:26:19,159 INFO  [Log] X 
+2018-08-09 23:26:19,168 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:26:19,168 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:26:19,168 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-08-09 23:26:19,168 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:26:19,168 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:26:19,224 INFO  [Log] Excel sheet opened 
+2018-08-09 23:26:19,224 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-08-09 23:26:30,037 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Process unexpectedly closed with status -2147483645
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-IE1JPG9H', ip: '192.168.10.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace:  
+2018-08-09 23:26:30,040 ERROR [Log] My Acocunt link is not found on the Home Page 
+2018-08-09 23:26:30,078 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2018-08-09 23:26:30,080 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-08-09 23:26:30,080 INFO  [Log] X 
+2018-08-09 23:26:30,080 INFO  [Log] X 
+2018-08-09 23:26:30,080 INFO  [Log] X 
+2018-08-09 23:26:30,080 INFO  [Log] X 
+2018-08-09 23:27:01,589 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:27:01,589 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:27:01,589 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-08-09 23:27:01,589 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:27:01,589 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:27:02,135 INFO  [Log] Excel sheet opened 
+2018-08-09 23:27:02,135 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-08-09 23:27:08,170 INFO  [Log] New driver instantiated 
+2018-08-09 23:27:08,207 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-08-09 23:27:14,818 INFO  [Log] Web application launched successfully 
+2018-08-09 23:27:14,867 INFO  [Log] My Account link is found on the Home Page 
+2018-08-09 23:27:16,640 INFO  [Log] Click action is perfromed on My Account link 
+2018-08-09 23:27:16,649 INFO  [Log] Username text box is found on the Login Page 
+2018-08-09 23:27:16,685 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-08-09 23:27:16,695 INFO  [Log] Password text box is found on the Login page 
+2018-08-09 23:27:16,715 INFO  [Log] Test@123 is entered in Password text box 
+2018-08-09 23:27:16,726 INFO  [Log] Submit button is found on the Login page 
+2018-08-09 23:27:16,960 INFO  [Log] Click action is performed on Submit button 
+2018-08-09 23:27:36,756 ERROR [Log] Log Out link is not found on the Home Page 
+2018-08-09 23:27:38,594 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Failed to decode response from marionette
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-IE1JPG9H', ip: '192.168.10.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6516, moz:profile: C:\Users\Chandra.Gowlikar\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 16241bea-689e-4f55-9de2-c9704ff5b62a 
+2018-08-09 23:27:38,601 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-08-09 23:27:38,601 INFO  [Log] X 
+2018-08-09 23:27:38,601 INFO  [Log] X 
+2018-08-09 23:27:38,601 INFO  [Log] X 
+2018-08-09 23:27:38,601 INFO  [Log] X 
+2018-08-09 23:27:38,642 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:27:38,642 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:27:38,642 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-08-09 23:27:38,642 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:27:38,642 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:27:38,682 INFO  [Log] Excel sheet opened 
+2018-08-09 23:27:38,682 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-08-09 23:27:43,896 INFO  [Log] New driver instantiated 
+2018-08-09 23:27:44,113 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-08-09 23:27:50,099 INFO  [Log] Web application launched successfully 
+2018-08-09 23:27:50,122 INFO  [Log] My Account link is found on the Home Page 
+2018-08-09 23:27:50,559 INFO  [Log] Click action is perfromed on My Account link 
+2018-08-09 23:27:50,571 ERROR [Log] UserName text box is not found on the Login Page 
+2018-08-09 23:27:52,430 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Failed to decode response from marionette
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-IE1JPG9H', ip: '192.168.10.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 3192, moz:profile: C:\Users\Chandra.Gowlikar\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 92818875-c691-44fb-926e-de73f89bc2eb 
+2018-08-09 23:27:52,432 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-08-09 23:27:52,432 INFO  [Log] X 
+2018-08-09 23:27:52,433 INFO  [Log] X 
+2018-08-09 23:27:52,433 INFO  [Log] X 
+2018-08-09 23:27:52,433 INFO  [Log] X 
+2018-08-09 23:28:13,540 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:28:13,540 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:28:13,541 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-08-09 23:28:13,541 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:28:13,541 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:28:14,106 INFO  [Log] Excel sheet opened 
+2018-08-09 23:28:14,107 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-08-09 23:28:19,639 INFO  [Log] New driver instantiated 
+2018-08-09 23:28:19,658 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-08-09 23:28:26,152 INFO  [Log] Web application launched successfully 
+2018-08-09 23:28:26,180 INFO  [Log] My Account link is found on the Home Page 
+2018-08-09 23:28:27,804 INFO  [Log] Click action is perfromed on My Account link 
+2018-08-09 23:28:27,815 INFO  [Log] Username text box is found on the Login Page 
+2018-08-09 23:28:27,851 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-08-09 23:28:27,862 INFO  [Log] Password text box is found on the Login page 
+2018-08-09 23:28:27,889 INFO  [Log] Test@123 is entered in Password text box 
+2018-08-09 23:28:27,898 INFO  [Log] Submit button is found on the Login page 
+2018-08-09 23:28:28,134 INFO  [Log] Click action is performed on Submit button 
+2018-08-09 23:28:33,514 ERROR [Log] Log Out link is not found on the Home Page 
+2018-08-09 23:28:35,162 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Failed to decode response from marionette
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-IE1JPG9H', ip: '192.168.10.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9692, moz:profile: C:\Users\Chandra.Gowlikar\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: e1dadb01-e1b2-4bad-89d4-bdf1e413b8fb 
+2018-08-09 23:28:35,168 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-08-09 23:28:35,168 INFO  [Log] X 
+2018-08-09 23:28:35,168 INFO  [Log] X 
+2018-08-09 23:28:35,168 INFO  [Log] X 
+2018-08-09 23:28:35,168 INFO  [Log] X 
+2018-08-09 23:28:35,180 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:28:35,180 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:28:35,180 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-08-09 23:28:35,180 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:28:35,180 INFO  [Log] **************************************************************************************** 
+2018-08-09 23:28:35,222 INFO  [Log] Excel sheet opened 
+2018-08-09 23:28:35,222 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-08-09 23:28:40,252 INFO  [Log] New driver instantiated 
+2018-08-09 23:28:40,655 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-08-09 23:28:45,360 INFO  [Log] Web application launched successfully 
+2018-08-09 23:28:45,374 INFO  [Log] My Account link is found on the Home Page 
+2018-08-09 23:28:47,507 INFO  [Log] Click action is perfromed on My Account link 
+2018-08-09 23:28:47,526 INFO  [Log] Username text box is found on the Login Page 
+2018-08-09 23:28:47,568 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-08-09 23:28:47,581 INFO  [Log] Password text box is found on the Login page 
+2018-08-09 23:28:47,604 INFO  [Log] Test@123 is entered in Password text box 
+2018-08-09 23:28:47,614 INFO  [Log] Submit button is found on the Login page 
+2018-08-09 23:28:47,917 INFO  [Log] Click action is performed on Submit button 
+2018-08-09 23:28:50,454 ERROR [Log] Log Out link is not found on the Home Page 
+2018-08-09 23:28:52,153 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Failed to decode response from marionette
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-IE1JPG9H', ip: '192.168.10.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10124, moz:profile: C:\Users\Chandra.Gowlikar\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 81d56f5e-13a9-4350-8552-afc73c0d29c8 
+2018-08-09 23:28:52,154 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-08-09 23:28:52,154 INFO  [Log] X 
+2018-08-09 23:28:52,154 INFO  [Log] X 
+2018-08-09 23:28:52,155 INFO  [Log] X 
+2018-08-09 23:28:52,155 INFO  [Log] X 
